@@ -1,0 +1,60 @@
+data:
+  turbulence_sequences: data/turbulence_sequences
+  turbulence_sequences_RLRAT: data/turbulence_sequences_RLRAT
+  base_experiment: data_artifacts/real_proxy_base
+  grouped_scenes: data/grouped_scenes
+  image_size: 224
+  model_frames: 15
+  split_seed: 20260724
+
+model:
+  project_root: simulation
+  external_encoder_dir: encoder
+  encoder: swin_mae
+  swin_feature_index: 1
+  swin_feature_dim: 512
+  embedding_dim: 64
+  latent_dim: 4
+  deflex_blocks: 2
+  attention_heads: 4
+  dropout: 0.1
+  freeze_encoder: false
+
+proxy:
+  j_target_mode: direct_proxy
+  j_positive_floor: 1.0e-6
+
+train:
+  device: auto
+  data_parallel: true
+  amp: true
+  batch_size: 12
+  num_workers: 8
+  epochs: 80
+  steps_per_epoch: 300
+  validation_max_videos_per_source: 600
+  learning_rate: 0.0005
+  encoder_learning_rate: 0.00005
+  weight_decay: 0.0001
+  grad_clip_norm: 1.0
+  warmup_epochs: 3
+  early_stopping_patience: 20
+  log_every: 25
+  rlrat_groups_per_batch: 2
+
+loss:
+  aoa: 1.0
+  j: 1.0
+  j_clip: 0.50
+  correlation: 0.10
+  patch_scale: 0.05
+  clip_scale: 0.10
+  nuisance_compact: 0.0001
+
+evaluation:
+  batch_size: 8
+  num_workers: 4
+
+output:
+  root: runs/outputs_real_long_jcal_83init
+  tmp_dir: /tmp/aoa_formula_discovery_real

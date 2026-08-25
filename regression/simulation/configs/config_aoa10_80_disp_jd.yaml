@@ -1,0 +1,71 @@
+data:
+  csv: ../data/sim_AOA_10_80_10/all_formula_table.csv
+  data_root: ../data/sim_AOA_10_80_10
+  frame_count: 15
+  image_size: 224
+  patch_size: 16
+  channels: 3
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+  random_state: 0
+
+model:
+  encoder: swin_mae
+  swin_feature_index: 1
+  freeze_encoder: false
+  external_encoder_dir: ../encoder
+  external_encoder_checkpoint: ../encoder/83-checkpoint-499.pth
+  swin_feature_dim: 512
+  embedding_dim: 64
+  latent_dim: 4
+  deflex_blocks: 2
+  attention_heads: 4
+  dropout: 0.1
+  disp_head_inputs: aoa_extra_delta
+  disp_head_type: powerlaw
+  disp_powerlaw_init_aoa_exp: 1.0
+  disp_powerlaw_init_delta_exp: -2.0
+  disp_powerlaw_residual_scale: 0.0
+
+train:
+  batch_size: 8
+  epochs: 100
+  lr: 0.0001
+  encoder_lr: 0.00001
+  grad_clip_norm: 0.5
+  save_every_epochs: 5
+  num_workers: 4
+  device: auto
+  data_parallel: true
+  max_train_video_views: null
+  max_val_video_views: null
+  log_every: 20
+
+loss_weights:
+  task: 0.5
+  aoa_formula: 0.0
+  disp_formula: 0.3
+  disp_formula_c_init: 1.8624455
+  align: 0.6
+  corr: 0.2
+  j_residual_d: 0.1
+  temporal: 0.0
+  compact: 0.0001
+  use_disp_weight: true
+  min_disp_var: 0.0001
+  min_disp_weight: 0.1
+
+loss_schedule:
+  warmup_epochs: 5
+  formula_start_epoch: 6
+  formula_ramp_epochs: 1
+  corr_start_epoch: 6
+  aux_start_epoch: 6
+  aux_ramp_epochs: 1
+
+symbolic:
+  out_dir: ../runs/outputs_aoa10_80_disp_jd/symbolic
+  run_pysr: false
+  pysr_iterations: 2000
+  random_state: 0
