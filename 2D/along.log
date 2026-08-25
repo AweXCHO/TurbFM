@@ -1,0 +1,212 @@
+nohup: 忽略输入
+length_of_train:  2962
+length_of_valid:  291
+Start training ...
+Epoch [001]--warm up  TIM_loss: 15.71038, TMM_loss: 0.11332, PSNR_train: 23.39001
+para_l1: 0.10217, PSNR_valid: 24.63391,time:2612.78s
+Epoch [002]--warm up  TIM_loss: 13.74816, TMM_loss: 0.10540, PSNR_train: 24.37278
+para_l1: 0.10054, PSNR_valid: 24.27094,time:2619.14s
+Epoch [003]--warm up  TIM_loss: 12.02169, TMM_loss: 0.09242, PSNR_train: 25.30969
+para_l1: 0.06744, PSNR_valid: 25.47598,time:2630.11s
+Epoch [004]--warm up  TIM_loss: 11.38890, TMM_loss: 0.06298, PSNR_train: 25.70401
+para_l1: 0.04759, PSNR_valid: 25.15269,time:2627.12s
+Epoch [005]--warm up  TIM_loss: 11.05345, TMM_loss: 0.05052, PSNR_train: 25.90451
+para_l1: 0.04791, PSNR_valid: 26.44082,time:2653.32s
+Epoch [006]--warm up  TIM_loss: 10.95845, TMM_loss: 0.04524, PSNR_train: 25.99421
+para_l1: 0.04191, PSNR_valid: 25.11627,time:2651.39s
+Epoch [007]--warm up  TIM_loss: 10.62532, TMM_loss: 0.04234, PSNR_train: 26.18789
+para_l1: 0.04448, PSNR_valid: 26.09809,time:2611.22s
+Epoch [008]--warm up  TIM_loss: 10.75516, TMM_loss: 0.04230, PSNR_train: 26.10500
+para_l1: 0.03749, PSNR_valid: 25.92367,time:2607.64s
+Epoch [009]--warm up  TIM_loss: 10.46674, TMM_loss: 0.04030, PSNR_train: 26.35093
+para_l1: 0.03813, PSNR_valid: 26.25298,time:2588.38s
+Epoch [010]--warm up  TIM_loss: 10.53322, TMM_loss: 0.04010, PSNR_train: 26.27402
+para_l1: 0.03592, PSNR_valid: 25.88008,time:2583.40s
+Epoch [011]--warm up  TIM_loss: 10.50601, TMM_loss: 0.03781, PSNR_train: 26.30650
+para_l1: 0.03765, PSNR_valid: 25.76348,time:2580.53s
+Epoch [012]--warm up  TIM_loss: 10.29302, TMM_loss: 0.03802, PSNR_train: 26.41729
+para_l1: 0.03653, PSNR_valid: 25.04474,time:2597.10s
+Epoch [013]--warm up  TIM_loss: 10.30864, TMM_loss: 0.03702, PSNR_train: 26.43047
+para_l1: 0.03608, PSNR_valid: 26.30928,time:2641.95s
+Epoch [014]--warm up  TIM_loss: 10.15993, TMM_loss: 0.03636, PSNR_train: 26.54923
+para_l1: 0.03403, PSNR_valid: 25.42903,time:2648.47s
+Epoch [015]--warm up  TIM_loss: 10.00303, TMM_loss: 0.03532, PSNR_train: 26.66374
+para_l1: 0.04439, PSNR_valid: 26.17534,time:2643.21s
+Epoch [016]--warm up  TIM_loss: 10.10814, TMM_loss: 0.03585, PSNR_train: 26.52637
+para_l1: 0.03810, PSNR_valid: 25.11607,time:2642.95s
+Epoch [017]--warm up  TIM_loss: 10.04809, TMM_loss: 0.03495, PSNR_train: 26.59985
+para_l1: 0.03292, PSNR_valid: 26.00388,time:2631.61s
+Epoch [018]--warm up  TIM_loss: 10.06153, TMM_loss: 0.03600, PSNR_train: 26.59970
+para_l1: 0.04031, PSNR_valid: 25.52033,time:2595.55s
+Epoch [019]--warm up  TIM_loss: 9.85704, TMM_loss: 0.03376, PSNR_train: 26.75816
+para_l1: 0.03807, PSNR_valid: 25.27294,time:2599.45s
+Epoch [020]--warm up  TIM_loss: 9.90238, TMM_loss: 0.03489, PSNR_train: 26.73350
+para_l1: 0.03575, PSNR_valid: 25.63319,time:2595.52s
+Epoch [021]--warm up  TIM_loss: 10.00876, TMM_loss: 0.03474, PSNR_train: 26.63242
+para_l1: 0.03896, PSNR_valid: 26.46946,time:2601.28s
+Epoch [022]--warm up  TIM_loss: 9.74677, TMM_loss: 0.03386, PSNR_train: 26.80973
+para_l1: 0.03679, PSNR_valid: 25.63051,time:2593.73s
+Epoch [023]--warm up  TIM_loss: 9.71017, TMM_loss: 0.03427, PSNR_train: 26.88436
+para_l1: 0.03474, PSNR_valid: 26.36636,time:2597.50s
+Epoch [024]--warm up  TIM_loss: 9.88091, TMM_loss: 0.03288, PSNR_train: 26.76351
+para_l1: 0.03221, PSNR_valid: 25.79034,time:2593.00s
+Epoch [025]--warm up  TIM_loss: 9.92619, TMM_loss: 0.03307, PSNR_train: 26.76379
+para_l1: 0.03372, PSNR_valid: 25.61907,time:2600.85s
+Epoch [026]--warm up  TIM_loss: 9.84449, TMM_loss: 0.03334, PSNR_train: 26.77065
+para_l1: 0.03074, PSNR_valid: 26.29711,time:2597.14s
+Epoch [027]--warm up  TIM_loss: 10.02005, TMM_loss: 0.03358, PSNR_train: 26.64061
+para_l1: 0.03290, PSNR_valid: 25.92542,time:2592.93s
+Epoch [028]--warm up  TIM_loss: 9.71493, TMM_loss: 0.03301, PSNR_train: 26.83142
+para_l1: 0.03176, PSNR_valid: 25.98608,time:2595.39s
+Epoch [029]--warm up  TIM_loss: 9.75243, TMM_loss: 0.03281, PSNR_train: 26.84191
+para_l1: 0.03839, PSNR_valid: 24.58123,time:2594.20s
+Epoch [030]--warm up  TIM_loss: 9.53566, TMM_loss: 0.03180, PSNR_train: 26.97131
+para_l1: 0.04183, PSNR_valid: 26.11672,time:2596.90s
+Epoch [031]--warm up  TIM_loss: 9.83834, TMM_loss: 0.03358, PSNR_train: 26.77301
+para_l1: 0.03360, PSNR_valid: 26.29753,time:2598.43s
+Epoch [032]--warm up  TIM_loss: 9.42816, TMM_loss: 0.03190, PSNR_train: 27.05586
+para_l1: 0.03448, PSNR_valid: 26.20862,time:2600.02s
+Epoch [033]--warm up  TIM_loss: 9.70189, TMM_loss: 0.03166, PSNR_train: 26.88414
+para_l1: 0.04308, PSNR_valid: 24.32001,time:2603.11s
+Epoch [034]--warm up  TIM_loss: 9.43454, TMM_loss: 0.03219, PSNR_train: 27.02219
+para_l1: 0.03011, PSNR_valid: 26.04868,time:2602.81s
+Epoch [035]--warm up  TIM_loss: 9.54595, TMM_loss: 0.03174, PSNR_train: 26.99223
+para_l1: 0.03565, PSNR_valid: 25.93992,time:2602.59s
+Epoch [036]--warm up  TIM_loss: 9.61031, TMM_loss: 0.03157, PSNR_train: 26.94009
+para_l1: 0.03978, PSNR_valid: 26.32492,time:2601.76s
+Epoch [037]--warm up  TIM_loss: 9.74822, TMM_loss: 0.03215, PSNR_train: 26.83150
+para_l1: 0.03344, PSNR_valid: 26.51222,time:2598.84s
+Epoch [038]--warm up  TIM_loss: 9.53252, TMM_loss: 0.03166, PSNR_train: 26.96381
+para_l1: 0.03253, PSNR_valid: 26.19702,time:2601.33s
+Epoch [039]--warm up  TIM_loss: 9.56364, TMM_loss: 0.03063, PSNR_train: 26.97379
+para_l1: 0.03189, PSNR_valid: 25.90646,time:2595.66s
+Epoch [040]--warm up  TIM_loss: 9.57181, TMM_loss: 0.03100, PSNR_train: 26.98519
+para_l1: 0.03488, PSNR_valid: 25.95547,time:2599.21s
+Epoch [041]--warm up  TIM_loss: 9.51064, TMM_loss: 0.03129, PSNR_train: 26.98496
+para_l1: 0.03099, PSNR_valid: 26.37117,time:2600.13s
+Epoch [042]--warm up  TIM_loss: 9.38049, TMM_loss: 0.03101, PSNR_train: 27.10576
+para_l1: 0.03107, PSNR_valid: 25.74210,time:2597.08s
+Epoch [043]--warm up  TIM_loss: 9.56926, TMM_loss: 0.03036, PSNR_train: 26.98847
+para_l1: 0.03737, PSNR_valid: 25.64790,time:2601.12s
+Epoch [044]--warm up  TIM_loss: 9.44385, TMM_loss: 0.03011, PSNR_train: 27.05008
+para_l1: 0.03134, PSNR_valid: 24.95612,time:2595.84s
+Epoch [045]--warm up  TIM_loss: 9.50157, TMM_loss: 0.03003, PSNR_train: 27.05536
+para_l1: 0.03213, PSNR_valid: 25.71564,time:2586.05s
+Epoch [046]--warm up  TIM_loss: 9.38814, TMM_loss: 0.03149, PSNR_train: 27.08478
+para_l1: 0.02889, PSNR_valid: 25.95236,time:2593.79s
+Epoch [047]--warm up  TIM_loss: 9.48943, TMM_loss: 0.02966, PSNR_train: 27.02502
+para_l1: 0.03049, PSNR_valid: 26.38395,time:2613.26s
+Epoch [048]--warm up  TIM_loss: 9.29162, TMM_loss: 0.02849, PSNR_train: 27.13861
+para_l1: 0.03351, PSNR_valid: 26.01783,time:2601.08s
+Epoch [049]--warm up  TIM_loss: 9.49585, TMM_loss: 0.03091, PSNR_train: 27.01575
+para_l1: 0.03137, PSNR_valid: 25.96689,time:2615.06s
+Epoch [050]--warm up  TIM_loss: 9.19621, TMM_loss: 0.02758, PSNR_train: 27.23035
+para_l1: 0.02901, PSNR_valid: 26.35261,time:2618.23s
+Epoch [051]--warm up  TIM_loss: 9.03235, TMM_loss: 0.02715, PSNR_train: 27.36004
+para_l1: 0.02972, PSNR_valid: 26.84321,time:2592.62s
+Epoch [052]--warm up  TIM_loss: 9.01509, TMM_loss: 0.02716, PSNR_train: 27.40076
+para_l1: 0.02732, PSNR_valid: 26.49694,time:2593.83s
+Epoch [053]--warm up  TIM_loss: 8.94014, TMM_loss: 0.02715, PSNR_train: 27.45383
+para_l1: 0.02982, PSNR_valid: 25.98968,time:2595.74s
+Epoch [054]--warm up  TIM_loss: 9.18189, TMM_loss: 0.02744, PSNR_train: 27.22805
+para_l1: 0.02903, PSNR_valid: 25.74705,time:2585.03s
+Epoch [055]--warm up  TIM_loss: 9.00412, TMM_loss: 0.02739, PSNR_train: 27.41123
+para_l1: 0.02698, PSNR_valid: 27.10603,time:2581.08s
+Epoch [056]--warm up  TIM_loss: 9.08607, TMM_loss: 0.02685, PSNR_train: 27.29570
+para_l1: 0.03128, PSNR_valid: 26.58103,time:2579.88s
+Epoch [057]--warm up  TIM_loss: 8.89468, TMM_loss: 0.02694, PSNR_train: 27.47201
+para_l1: 0.02886, PSNR_valid: 26.81474,time:2580.51s
+Epoch [058]--warm up  TIM_loss: 9.10295, TMM_loss: 0.02679, PSNR_train: 27.30657
+para_l1: 0.03117, PSNR_valid: 26.47626,time:2580.09s
+Epoch [059]--warm up  TIM_loss: 9.07657, TMM_loss: 0.02746, PSNR_train: 27.36544
+para_l1: 0.03171, PSNR_valid: 25.57825,time:2582.00s
+Epoch [060]--warm up  TIM_loss: 9.09748, TMM_loss: 0.02772, PSNR_train: 27.36745
+para_l1: 0.02877, PSNR_valid: 26.53554,time:2587.92s
+Epoch [061]--warm up  TIM_loss: 8.81692, TMM_loss: 0.02810, PSNR_train: 27.49617
+para_l1: 0.03030, PSNR_valid: 26.33504,time:2592.18s
+Epoch [062]--warm up  TIM_loss: 9.03929, TMM_loss: 0.02739, PSNR_train: 27.38697
+para_l1: 0.03075, PSNR_valid: 25.93121,time:2589.48s
+Epoch [063]--warm up  TIM_loss: 8.84055, TMM_loss: 0.02788, PSNR_train: 27.48715
+para_l1: 0.03060, PSNR_valid: 25.89709,time:2604.18s
+Epoch [064]--warm up  TIM_loss: 8.92186, TMM_loss: 0.02766, PSNR_train: 27.45537
+para_l1: 0.03139, PSNR_valid: 25.84888,time:2614.38s
+Epoch [065]--warm up  TIM_loss: 8.81524, TMM_loss: 0.02777, PSNR_train: 27.46725
+para_l1: 0.03044, PSNR_valid: 26.29949,time:2620.74s
+Epoch [066]--warm up  TIM_loss: 9.00428, TMM_loss: 0.02801, PSNR_train: 27.34993
+para_l1: 0.03554, PSNR_valid: 26.66012,time:2617.84s
+Epoch [067]--warm up  TIM_loss: 8.87989, TMM_loss: 0.02757, PSNR_train: 27.48576
+para_l1: 0.03019, PSNR_valid: 26.66251,time:2616.99s
+Epoch [068]--warm up  TIM_loss: 8.81489, TMM_loss: 0.02786, PSNR_train: 27.49535
+para_l1: 0.02902, PSNR_valid: 26.56566,time:2612.39s
+Epoch [069]--warm up  TIM_loss: 8.86466, TMM_loss: 0.02764, PSNR_train: 27.46925
+para_l1: 0.03082, PSNR_valid: 26.69737,time:2610.13s
+Epoch [070]--warm up  TIM_loss: 8.86134, TMM_loss: 0.02738, PSNR_train: 27.50609
+para_l1: 0.02863, PSNR_valid: 27.09226,time:2600.59s
+Epoch [071]--warm up  TIM_loss: 8.84018, TMM_loss: 0.02742, PSNR_train: 27.54927
+para_l1: 0.02820, PSNR_valid: 26.35748,time:2616.07s
+Epoch [072]--warm up  TIM_loss: 8.75913, TMM_loss: 0.02737, PSNR_train: 27.57858
+para_l1: 0.03014, PSNR_valid: 27.06594,time:2607.83s
+Epoch [073]--warm up  TIM_loss: 8.86082, TMM_loss: 0.02769, PSNR_train: 27.48748
+para_l1: 0.03204, PSNR_valid: 26.10798,time:2612.34s
+Epoch [074]--warm up  TIM_loss: 8.75882, TMM_loss: 0.02769, PSNR_train: 27.58642
+para_l1: 0.03117, PSNR_valid: 25.67997,time:2612.39s
+Epoch [075]--warm up  TIM_loss: 8.85880, TMM_loss: 0.02716, PSNR_train: 27.51584
+para_l1: 0.02952, PSNR_valid: 26.73842,time:2615.46s
+Epoch [076]--warm up  TIM_loss: 8.85206, TMM_loss: 0.02705, PSNR_train: 27.57275
+para_l1: 0.02931, PSNR_valid: 26.86788,time:2615.84s
+Epoch [077]--warm up  TIM_loss: 8.81048, TMM_loss: 0.02666, PSNR_train: 27.57416
+para_l1: 0.03041, PSNR_valid: 26.59432,time:2616.52s
+Epoch [078]--warm up  TIM_loss: 8.83137, TMM_loss: 0.02770, PSNR_train: 27.51043
+para_l1: 0.03108, PSNR_valid: 26.47772,time:2615.30s
+Epoch [079]--warm up  TIM_loss: 8.81439, TMM_loss: 0.02752, PSNR_train: 27.48537
+para_l1: 0.03205, PSNR_valid: 26.37268,time:2637.04s
+Epoch [080]--warm up  TIM_loss: 8.73061, TMM_loss: 0.02735, PSNR_train: 27.59203
+para_l1: 0.02723, PSNR_valid: 26.80003,time:2623.40s
+Epoch [081]--warm up  TIM_loss: 8.78808, TMM_loss: 0.02683, PSNR_train: 27.53700
+para_l1: 0.02989, PSNR_valid: 26.76162,time:2639.15s
+Epoch [082]--warm up  TIM_loss: 8.85467, TMM_loss: 0.02676, PSNR_train: 27.53188
+para_l1: 0.03051, PSNR_valid: 26.91958,time:2625.18s
+Epoch [083]--warm up  TIM_loss: 8.83262, TMM_loss: 0.02708, PSNR_train: 27.47333
+para_l1: 0.03361, PSNR_valid: 26.75035,time:2629.31s
+Epoch [084]--warm up  TIM_loss: 8.80522, TMM_loss: 0.02699, PSNR_train: 27.58492
+para_l1: 0.02959, PSNR_valid: 26.34638,time:2619.67s
+Epoch [085]--warm up  TIM_loss: 8.68751, TMM_loss: 0.02692, PSNR_train: 27.68059
+para_l1: 0.03196, PSNR_valid: 26.58405,time:2615.66s
+Epoch [086]--warm up  TIM_loss: 8.60515, TMM_loss: 0.02640, PSNR_train: 27.69462
+para_l1: 0.03078, PSNR_valid: 27.14900,time:2615.40s
+Epoch [087]--warm up  TIM_loss: 8.77133, TMM_loss: 0.02633, PSNR_train: 27.56305
+para_l1: 0.02770, PSNR_valid: 25.68647,time:2614.43s
+Epoch [088]--warm up  TIM_loss: 8.70485, TMM_loss: 0.02667, PSNR_train: 27.66302
+para_l1: 0.02821, PSNR_valid: 27.15993,time:2614.02s
+Epoch [089]--warm up  TIM_loss: 8.74194, TMM_loss: 0.02683, PSNR_train: 27.59969
+para_l1: 0.03342, PSNR_valid: 26.83632,time:2613.01s
+Epoch [090]--warm up  TIM_loss: 8.68508, TMM_loss: 0.02655, PSNR_train: 27.63572
+para_l1: 0.02954, PSNR_valid: 26.14685,time:2610.79s
+Epoch [091]--warm up  TIM_loss: 8.71889, TMM_loss: 0.02711, PSNR_train: 27.64164
+para_l1: 0.02990, PSNR_valid: 26.35222,time:2611.24s
+Epoch [092]--warm up  TIM_loss: 8.71119, TMM_loss: 0.02660, PSNR_train: 27.54691
+para_l1: 0.02720, PSNR_valid: 26.54710,time:2612.99s
+Epoch [093]--warm up  TIM_loss: 8.60512, TMM_loss: 0.02598, PSNR_train: 27.69371
+para_l1: 0.02809, PSNR_valid: 26.59794,time:2609.10s
+Epoch [094]--warm up  TIM_loss: 8.59134, TMM_loss: 0.02587, PSNR_train: 27.71669
+para_l1: 0.02760, PSNR_valid: 26.57834,time:2606.39s
+Epoch [095]--warm up  TIM_loss: 8.50726, TMM_loss: 0.02534, PSNR_train: 27.79748
+para_l1: 0.02920, PSNR_valid: 26.62304,time:2592.04s
+Epoch [096]--warm up  TIM_loss: 8.68079, TMM_loss: 0.02609, PSNR_train: 27.62969
+para_l1: 0.02949, PSNR_valid: 26.66519,time:2609.64s
+Epoch [097]--warm up  TIM_loss: 8.72483, TMM_loss: 0.02609, PSNR_train: 27.62245
+para_l1: 0.03037, PSNR_valid: 26.53258,time:2618.84s
+Epoch [098]--warm up  TIM_loss: 8.84964, TMM_loss: 0.02618, PSNR_train: 27.53563
+para_l1: 0.02975, PSNR_valid: 27.03573,time:2619.59s
+Epoch [099]--warm up  TIM_loss: 8.61042, TMM_loss: 0.02603, PSNR_train: 27.70338
+para_l1: 0.02900, PSNR_valid: 25.98689,time:2618.72s
+Epoch [100]--warm up  TIM_loss: 8.48573, TMM_loss: 0.02510, PSNR_train: 27.76172
+para_l1: 0.03205, PSNR_valid: 26.91724,time:2618.21s
+Traceback (most recent call last):
+  File "train.py", line 98, in <module>
+    a, b, c = utils.train(device, train_loader, TIM, TMM, opt_TIM, opt_TMM, criterion,
+  File "/home3/ydowang/Turbulence_new/PBCL_cur/code/utils.py", line 104, in train
+    i_feature = TIM.module.encoding(input_data)
+  File "/home/ydowang/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 947, in __getattr__
+    raise AttributeError("'{}' object has no attribute '{}'".format(
+AttributeError: 'TIM' object has no attribute 'module'
