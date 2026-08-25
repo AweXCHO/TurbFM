@@ -1,0 +1,76 @@
+Epoch 1: Train_Loss=15.7512, Train_PSNR=22.7795
+ Epoch 1: Valid_PSNR=25.8043
+Epoch 2: Train_Loss=10.3572, Train_PSNR=26.1153
+ Epoch 2: Valid_PSNR=26.4274
+Epoch 3: Train_Loss=9.5266, Train_PSNR=26.8927
+ Epoch 3: Valid_PSNR=27.2749
+Epoch 4: Train_Loss=8.9525, Train_PSNR=27.4405
+ Epoch 4: Valid_PSNR=28.0166
+Epoch 5: Train_Loss=8.3454, Train_PSNR=27.9795
+ Epoch 5: Valid_PSNR=27.3392
+Epoch 6: Train_Loss=8.0395, Train_PSNR=28.3580
+ Epoch 6: Valid_PSNR=28.5319
+Epoch 7: Train_Loss=7.8817, Train_PSNR=28.5101
+ Epoch 7: Valid_PSNR=28.7969
+Epoch 8: Train_Loss=7.6027, Train_PSNR=28.7988
+ Epoch 8: Valid_PSNR=28.5858
+Epoch 9: Train_Loss=7.6210, Train_PSNR=28.7422
+ Epoch 9: Valid_PSNR=29.0991
+Epoch 10: Train_Loss=7.3780, Train_PSNR=29.0051
+ Epoch 10: Valid_PSNR=29.0904
+Epoch 11: Train_Loss=7.3397, Train_PSNR=29.0924
+ Epoch 11: Valid_PSNR=29.0512
+Epoch 12: Train_Loss=7.3555, Train_PSNR=29.0925
+ Epoch 12: Valid_PSNR=28.6795
+Epoch 13: Train_Loss=7.2431, Train_PSNR=29.2233
+ Epoch 13: Valid_PSNR=29.0288
+Epoch 14: Train_Loss=7.1521, Train_PSNR=29.2994
+ Epoch 14: Valid_PSNR=29.6504
+Epoch 15: Train_Loss=7.1232, Train_PSNR=29.3302
+ Epoch 15: Valid_PSNR=29.6956
+Epoch 16: Train_Loss=6.9841, Train_PSNR=29.4627
+ Epoch 16: Valid_PSNR=29.5790
+Epoch 17: Train_Loss=6.9356, Train_PSNR=29.5203
+ Epoch 17: Valid_PSNR=29.4376
+Epoch 18: Train_Loss=6.8364, Train_PSNR=29.6369
+ Epoch 18: Valid_PSNR=29.7184
+Epoch 19: Train_Loss=6.8093, Train_PSNR=29.6807
+ Epoch 19: Valid_PSNR=29.8862
+Epoch 20: Train_Loss=6.8287, Train_PSNR=29.6859
+ Epoch 20: Train_Loss=6.8296, Train_PSNR=29.6868
+ Epoch 20: Valid_PSNR=30.3240
+Epoch 21: Train_Loss=6.8209, Train_PSNR=29.6479
+ Epoch 21: Valid_PSNR=30.0432
+Epoch 21: Train_Loss=6.7624, Train_PSNR=29.7579
+ Epoch 21: Train_Loss=6.7292, Train_PSNR=29.7843
+ Epoch 22: Train_Loss=6.7117, Train_PSNR=29.7783
+ Epoch 21: Train_Loss=6.7481, Train_PSNR=29.7703
+ Epoch 22: Train_Loss=6.7017, Train_PSNR=29.7926
+ Epoch 23: Train_Loss=6.8099, Train_PSNR=29.6773
+ Epoch 24: Train_Loss=6.7333, Train_PSNR=29.7296
+ Epoch 25: Train_Loss=6.7078, Train_PSNR=29.7991
+ Epoch 25: Valid_PSNR=29.7524
+Epoch 26: Train_Loss=6.6112, Train_PSNR=29.9328
+ Epoch 27: Train_Loss=6.5655, Train_PSNR=29.9549
+ Epoch 28: Train_Loss=6.5336, Train_PSNR=29.9592
+ Epoch 29: Train_Loss=6.5536, Train_PSNR=29.9735
+ Epoch 30: Train_Loss=6.5339, Train_PSNR=30.1075
+ Epoch 30: Valid_PSNR=29.6229
+Epoch 31: Train_Loss=6.5842, Train_PSNR=29.9772
+ Epoch 32: Train_Loss=6.5232, Train_PSNR=30.0623
+ Epoch 33: Train_Loss=6.4802, Train_PSNR=30.1107
+ Epoch 34: Train_Loss=6.4297, Train_PSNR=30.1486
+ Epoch 35: Train_Loss=6.4659, Train_PSNR=30.0528
+ Epoch 35: Valid_PSNR=30.0995
+Epoch 36: Train_Loss=6.3736, Train_PSNR=30.1992
+ Epoch 37: Train_Loss=6.4327, Train_PSNR=30.1351
+ Epoch 38: Train_Loss=6.3756, Train_PSNR=30.2374
+ Epoch 39: Train_Loss=6.3951, Train_PSNR=30.1759
+ Epoch 40: Train_Loss=6.4507, Train_PSNR=30.1802
+ Epoch 40: Valid_PSNR=29.8906
+
+
+Epoch 36: Train_Loss=6.4622, Train_PSNR=30.1294
+ Epoch 36: Valid_PSNR=30.9265
+Epoch 37: Train_Loss=6.4782, Train_PSNR=30.0540
+ 

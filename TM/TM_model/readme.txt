@@ -1,0 +1,3 @@
+timm_swin_mae_81.py和原本的MAE一致
+timm_swin_mae_92.py
+timm_swin_mae_38.py和timm_swin_mae_83.py一致，因为83多出来的是loss，没有体现，扰动感知位置编码在这里面也没有体现，这两个都是训练的时候才使用
